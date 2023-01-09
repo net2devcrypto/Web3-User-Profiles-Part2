@@ -12,7 +12,7 @@
 
 Click for video:
 
-<a href="" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40"></a> 
+<a href="https://youtu.be/VJg8TMLtLUI" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40"></a> 
 
 <h3> Please Find the Smart Contract Attached to this repo</h3>
 
